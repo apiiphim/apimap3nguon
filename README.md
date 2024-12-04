@@ -9,7 +9,7 @@ nguonc.php?page= 1 là lấy danh sách phim mới của page nguonc
 nguonc.php?slug= là lấy thông tin của Nguonc
 ```
 
-**V2 to Paid**
+**V2 to Paid $20**
 ```
 - Cache
 - Thêm vidsrc và kiểm tra phim có sẵn
