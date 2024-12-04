@@ -16,3 +16,5 @@ nguonc.php?slug= là lấy thông tin của Nguonc
 - Tự động add TMDB và IMDB
 - Diễn viên có thêm character + hình ảnh sẵn trong api
 ```
+# Liên hệ: https://t.me/apiionline
+# Nhóm hỗ trợ: https://t.me/apiionlines
