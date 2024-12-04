@@ -68,7 +68,7 @@ function addServerNames($episodes) {
 function handleMovieData($slug) {
     $ophimUrl = "https://ophim1.com/phim/$slug";
     $phimApiUrl = "https://phimapi.com/phim/$slug";
-    $nguoncApiUrl = "http://apiicmsnew.test/nguonc.php?slug=$slug";
+    $nguoncApiUrl = "/nguonc.php?slug=$slug";
     
     $ophimData = fetchDataFromApi($ophimUrl);
     $phimApiData = fetchDataFromApi($phimApiUrl);
